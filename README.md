@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arch-Lover
 - 👀 I’m interested in Hardware&New Tech!
-- 🌱 I’m currently learning Nothing
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Ceph&Kubernetes
+- 💞️ I’m looking to collaborate on Anything really Anything! :)
 - 📫 How to reach me ...
 
 <!---
