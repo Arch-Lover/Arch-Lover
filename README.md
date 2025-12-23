@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Arch-Lover
+- 👋 Hi, I’m @MojArch
 - 👀 I’m interested in Hardware&New Tech!
-- 🌱 I’m currently learning Ceph&Kubernetes
+- 🌱 I’m currently learning Ceph&Kubernetes&CICD
 - 💞️ I’m looking to collaborate on Anything really Anything! :)
 - 📫 How to reach me ...
 
