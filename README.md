@@ -8,9 +8,10 @@
 ---
 ### DevOps:
 
+<p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/Docker-2496ED">
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032">
-
+</p>p
 
 ---
 
@@ -24,10 +25,11 @@
 ---
 ### My AUR:
 
+<p align="center">
 <img alt="AUR Last Modified" src="https://img.shields.io/aur/last-modified/opera-developer?style=plastic">
 <img alt="AUR Last Modified" src="https://img.shields.io/aur/last-modified/opera-beta?style=plastic">
 <img alt="AUR Last Modified" src="https://img.shields.io/aur/last-modified/fnlock?style=plastic">
-
+</p>
 <!---
 Arch-Lover/Arch-Lover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
