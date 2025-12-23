@@ -14,6 +14,11 @@
 </p>
 
 ---
+My AUR:
+https://img.shields.io/aur/last-modified/opera-developer
+https://img.shields.io/aur/last-modified/opera-beta
+https://img.shields.io/aur/last-modified/fnlock
+
 <!---
 Arch-Lover/Arch-Lover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
