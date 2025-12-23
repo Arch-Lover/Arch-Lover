@@ -5,6 +5,13 @@
 - 📫 How to reach me ...
 
 ---
+DevOps:
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Docker-2496ED">
+<img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032">
+
+
+---
 
 ### 📊 GitHub Stats
 
@@ -15,9 +22,10 @@
 
 ---
 My AUR:
-https://img.shields.io/aur/last-modified/opera-developer
-https://img.shields.io/aur/last-modified/opera-beta
-https://img.shields.io/aur/last-modified/fnlock
+
+<img alt="AUR Last Modified" src="https://img.shields.io/aur/last-modified/opera-developer?style=plastic">
+<img alt="AUR Last Modified" src="https://img.shields.io/aur/last-modified/opera-beta?style=plastic">
+<img alt="AUR Last Modified" src="https://img.shields.io/aur/last-modified/fnlock?style=plastic">
 
 <!---
 Arch-Lover/Arch-Lover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
