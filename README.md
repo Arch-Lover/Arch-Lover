@@ -6,6 +6,10 @@
 - 📫 How to reach me ...
 
 ---
+#### Languages
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+---
 ### DevOps:
 
 <p align="center">
