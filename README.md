@@ -1,3 +1,4 @@
+### ME:
 - 👋 Hi, I’m @MojArch
 - 👀 I’m interested in Hardware&New Tech!
 - 🌱 I’m currently learning Ceph&Kubernetes&CICD
@@ -5,7 +6,7 @@
 - 📫 How to reach me ...
 
 ---
-DevOps:
+### DevOps:
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Docker-2496ED">
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032">
@@ -21,7 +22,7 @@ DevOps:
 </p>
 
 ---
-My AUR:
+### My AUR:
 
 <img alt="AUR Last Modified" src="https://img.shields.io/aur/last-modified/opera-developer?style=plastic">
 <img alt="AUR Last Modified" src="https://img.shields.io/aur/last-modified/opera-beta?style=plastic">
